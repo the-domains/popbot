@@ -1,0 +1,28 @@
+name: POPBOT
+favicon: null
+layout_spectrum: 0.1147912044543773
+typography_spectrum: 0.5281104182358831
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.12554375897161663
+  lightness: 0.031091050477698445
+  saturation: 0.9991973110008985
+  rhythmicContrast: 0.23098928318358958
+purpose: []
