@@ -1,7 +1,7 @@
 name: POPBOT
 favicon: null
 layout_spectrum: 0.50708
-typography_spectrum: 0.44764
+typography_spectrum: 0.48452
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#111111'
     - '#ee434c'
     - '#b7e8ed'
-  brandStrength: 0.5
+  brandStrength: 0.25
   lightness: 1
   saturation: 1
   rhythmicContrast: 0.25
