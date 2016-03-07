@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[POPBOT]]></title>
         <description><![CDATA[POPBOT]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/popbot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 17:03:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 17:03:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/popbot/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Terms & Condition]]></title>
+            <description><![CDATA[<h1>Terms & Condition</h1>]]></description>
+            <link>https://thegrid.ai/popbot/terms-and-condition/index.html</link>
+            <guid isPermaLink="false">246ec852-2957-4641-9c57-551681bbcaea</guid>
+            <pubDate>Mon, 07 Mar 2016 17:03:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Main Page]]></title>
             <description><![CDATA[<h1>Main Page</h1>]]></description>
-            <link>undefinedmain-page/index.html</link>
+            <link>https://thegrid.ai/popbot/main-page/index.html</link>
             <guid isPermaLink="false">af14878e-553c-47b0-b618-8dfaf6e97bb4</guid>
             <pubDate>Mon, 07 Mar 2016 17:03:30 GMT</pubDate>
         </item>
