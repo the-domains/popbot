@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T18:05:07.790Z'
-dateModified: '2016-03-07T18:05:04.052Z'
-title: 'Terms & Condition'
+datePublished: '2016-03-09T20:23:41.044Z'
+dateModified: '2016-03-09T20:23:18.683Z'
+title: Privacy Policy
 author: []
 sourcePath: _posts/2016-03-07-terms-and-condition.md
 published: true
